@@ -1,0 +1,4 @@
+language: generic
+script:
+- bash -e ./kadai-2_test.bash
+
